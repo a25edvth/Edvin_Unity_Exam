@@ -156,6 +156,7 @@ public class PlatformerMovement : MonoBehaviour
         else
         {
             moveInput = Vector2.zero; 
+animator.SetFloat("Speed", moveInput.x);
     
 }
     }
