@@ -102,7 +102,7 @@
                     "name": "New action",
                     "type": "Button",
                     "id": "ba0fbd56-3508-4188-a151-62a1a72979f0",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false

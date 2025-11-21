@@ -155,8 +155,9 @@ public class PlatformerMovement : MonoBehaviour
         }
         else
         {
-            moveInput = Vector2.zero;
-        }
+            moveInput = Vector2.zero; 
+    
+}
     }
 
     // Handle Jump-input
